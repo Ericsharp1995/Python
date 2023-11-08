@@ -87,7 +87,3 @@ decryped_plaintext = vig_decrypt(ciphertext, vig_cipher, counter)
 
 print ("Encrypted plaintext: " + ciphertext)
 print ("Decrypted plaintext: " + decryped_plaintext)
-
-
-
-
